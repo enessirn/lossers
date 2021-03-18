@@ -1,0 +1,1 @@
+In the case of SSD, random write operations cause internal fragmentation to occur. This fragmentation leads to increased garbage collection which causes even more writes to occur within the SSD (write-amplification). The result is significantly decreased performance and shortened device lifespan due to wearing.
