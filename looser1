@@ -1,0 +1,1 @@
+n the case of HDD, when random write data is received, a significant amount of time is spent repositioning the write heads over the correct media location. Once the location has been found, additional time is spent modifying the area of the disk with th
