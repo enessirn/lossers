@@ -1,0 +1,1 @@
+ new data. DataCore’s Random Write Accelerator can’t eliminate the need to write the data, but it does eliminate the need to reposition the heads for every random write operation, greatly improving performance.
